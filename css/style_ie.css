@@ -1,0 +1,35 @@
+#body
+{
+	height:700px;
+}
+#wrap
+{
+	margin-top:300px;
+	min-height:500px;
+}
+#content
+{
+	padding-top:200px;
+	margin-top:200px;
+	
+}
+.tab_content
+{
+	height:20px;
+}
+.tab_content li,#footer li
+{
+	display: inline;
+	zoom: 1;
+}
+
+#left_menu li
+{
+	 width:96%;
+	 margin-left:1px;
+}
+.form_table
+{
+	text-align:left;
+	padding-left:400px;
+}

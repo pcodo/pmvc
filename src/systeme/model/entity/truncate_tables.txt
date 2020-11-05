@@ -1,0 +1,7 @@
+TRUNCATE TABLE `token`;
+TRUNCATE TABLE `token_forward`;
+TRUNCATE TABLE `token_progress`;
+TRUNCATE TABLE `token_progress_validation`;
+TRUNCATE TABLE `token_bundle`;
+TRUNCATE TABLE `token_bundle_info`;
+TRUNCATE TABLE `mail_job`;

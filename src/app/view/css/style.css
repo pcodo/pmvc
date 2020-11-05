@@ -1,0 +1,38 @@
+.required{
+	color:red;
+}
+#form_div
+{
+    border-top: thin outset;
+
+}
+#form_header{
+    font-size: 14px;
+    margin-top: -10px;
+}
+.form_table
+{
+    text-align:left;
+    width:100%;
+    padding-left:5%;
+}
+legend
+{
+    color:gray;
+}
+#form_header
+{
+    background-color:green;
+    height:40px;
+    color:white;
+    text-align:left;
+    padding-left:5px;
+}
+#form_header h3
+{
+    
+}
+.select2
+{
+    min-width: 150px;    
+}
