@@ -7,13 +7,13 @@
 	define('PDFEXPORTSIZE',500);
 	
 	// Titre de l'application
-	define('app_name','PMVC');
+	define('app_name','conf-rooms-manager');
 	define('app_title','SYSTEME DE GESTION DES SALLES DE CONFERENCE DU ME');
 
 	define('SERVER_IP','10.1.5.90');
-	define('DBPWD_PROD','myAppPasswordX');
-	define('DBPWD_DEV','');
-	define('DBPWD','master');
+	define('DBUSER','c1_confroom');
+	define('DBNAME','c1_confroomDB');
+	define('DBPWD','MTz4!B4nkknEge5YS_Gm');
 	define('SMS_SERVER_IP','10.1.9.12');
 	define('SMS_SERVER_FULL_ADDRESS','http://10.1.9.12:13013/cgi-bin/sendsms?username=admin&password=bar');
 

@@ -10,7 +10,7 @@ class DataBase
 	private static $connexion = null;	
 	// pour augmenter le nombre de connexion dans mysql, on peut ajouter la ligne: max_connections=500 dans /etc/my.in ou /etc/my.conf
 		
-	public function __construct($dbHost="localhost",$dbName="pmvc",$dbUser="root",$dbMdp=DBPWD)
+	public function __construct($dbHost="localhost",$dbName=DBNAME,$dbUser=DBUSER,$dbMdp=DBPWD)
 	{
 		$this->dbHost=$dbHost;
 		$this->dbName=$dbName;

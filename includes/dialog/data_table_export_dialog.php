@@ -9,7 +9,7 @@
 		<div style="background-color:rgb(128,0,0);width:100%;color:white;"> Veuillez sélectionner les colonnes concernées. </div>
 		<table>
 			<tr>
-				<td><input type="text" name="export_title" id="export_title" size="35"/></td>
+				<td><input type="text" name="export_title" class="export_title" size="35"/></td>
 			</tr>
 		</table>
 		<table class="options">
@@ -24,7 +24,7 @@
 	<div class="main-title" style="background-color:rgb(128,0,0);width:100%;color:white;"></div>
 	<table>
 		<tr>
-			<td><input type="text" name="export_title" id="export_title" size="35"/></td>
+			<td><input type="text" name="export_title" class="export_title" size="35"/></td>
 		</tr>
 	</table>
 	<div class="options" style="text-align:left;">
